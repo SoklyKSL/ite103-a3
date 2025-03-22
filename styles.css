@@ -1,0 +1,42 @@
+.scroll-text {
+    background: #2f3990;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.border {
+    border: 3px solid #2f3990;
+    box-sizing: border-box; 
+}
+
+.image-container {
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: space-between; 
+}
+
+.image-container img {
+    width: 32.5%;
+    border: 5px solid #2f3990;
+}
+
+.text-background {
+    background-color: #0f0f73;
+    color: white;
+    font-size:20px;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    border: 2px solid #0f0f73;
+}
+
+
+
